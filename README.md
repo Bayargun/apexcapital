@@ -62,6 +62,7 @@ Landing page for "Омни Ассет 2" — хөрөнгөөр баталгаа
 - landing page
 - Hero, Details, How-to-trade, Why sections, scroll, footer
 - Framer Motion animations
+- iframe for video
 
 ## Deploy
 
